@@ -1,0 +1,49 @@
+{
+    "name": "hackqc_frontend",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "material-ui": "^0.20.0",
+        "newsapi": "^2.2.2",
+        "prop-types": "^15.6.1",
+        "react": "^16.3.2",
+        "react-accessible-accordion": "^2.3.1",
+        "react-collapse": "^4.0.3",
+        "react-dom": "^16.3.2",
+        "react-geocode": "0.0.7",
+        "react-google-maps": "^9.4.5",
+        "react-hot-loader": "^4.1.2",
+        "react-motion": "^0.5.2",
+        "react-router": "^4.2.0",
+        "react-router-dom": "^4.2.2",
+        "react-scripts": "1.1.4",
+        "reactstrap": "^6.0.1",
+        "style-loader": "^0.21.0",
+        "victory": "^0.26.0"
+    },
+    "scripts": {
+        "start": "npm run serve",
+        "serve": "NODE_ENV=development webpack-dev-server --config ./src/config/webpack.config.js",
+        "build": "NODE_ENV=production webpack --config ./src/config/webpack.config.js",
+        "deploy": "tar -zc ../hackqc_frontend | ssh monordibogue.com \"tar -zx -C /tmp && rm -rf ./hackqc_frontend && mv /tmp/hackqc_frontend ./hackqc_frontend && (cd ./hackqc_frontend && (forever stop server || true) && forever start --id server -c \"sh\" ./scripts/public_serve.sh && sleep 1 && forever logs 0 -f)\""
+    },
+    "devDependencies": {
+        "babel-loader": "^7.1.4",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-stage-1": "^6.24.1",
+        "css-loader": "^0.28.11",
+        "file-loader": "^1.1.11",
+        "html-webpack-plugin": "^3.2.0",
+        "webpack-cli": "^2.1.2",
+        "webpack": "^4.7.0",
+        "webpack-dev-server": "^3.1.4"
+    },
+    "babel": {
+        "presets": [
+            "env",
+            "react",
+            "stage-1"
+        ]
+    }
+}

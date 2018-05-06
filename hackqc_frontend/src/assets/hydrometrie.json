@@ -1,0 +1,395 @@
+[
+    {
+        "name": "Lac Louise, Weedon, QC, Canada",
+        "state": 2,
+        "variation": 1,
+        "location": { "lat": 45.72649879999999, "lng": -71.4182379 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 2,
+        "variation": 1,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Rivière-du-Nord, QC J0B 3A0, Canada",
+        "state": 2,
+        "variation": 1,
+        "location": { "lat": 45.353376, "lng": -71.40360299999999 }
+    },
+    {
+        "name": "Rivière-du-Nord, QC J0B 3A0, Canada",
+        "state": 2,
+        "variation": 1,
+        "location": { "lat": 45.353376, "lng": -71.40360299999999 }
+    },
+    {
+        "name": "L'Assomption River, Quebec, Canada",
+        "state": 2,
+        "variation": 0,
+        "location": { "lat": 45.7430126, "lng": -73.4780567 }
+    },
+    {
+        "name": "Rivière-du-Loup, QC, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 47.835957, "lng": -69.5359854 }
+    },
+    {
+        "name": "St Lawrence River",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 47.6695302, "lng": -69.59569669999999 }
+    },
+    {
+        "name": "St Lawrence River",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 47.6695302, "lng": -69.59569669999999 }
+    },
+    {
+        "name": "St Lawrence River",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 47.6695302, "lng": -69.59569669999999 }
+    },
+    {
+        "name": "St Lawrence River",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 47.6695302, "lng": -69.59569669999999 }
+    },
+    {
+        "name": "St Lawrence River",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 47.6695302, "lng": -69.59569669999999 }
+    },
+    {
+        "name": "Lac Aylmer, Quebec, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 45.81487449999999, "lng": -71.3740303 }
+    },
+    {
+        "name": "Lake of Two Mountains, Quebec, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 45.4519656, "lng": -73.99524180000002 }
+    },
+    {
+        "name": "Lac Maskinongé, Québec J0K, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 46.3141296, "lng": -73.38925809999999 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Rivière-Croche, La Tuque, QC G0X, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 47.533333, "lng": -72.766667 }
+    },
+    {
+        "name":
+            "737 Rue de la Pisciculture, Saint-Faustin-Lac-Carré, QC J0V 1J2, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 46.1125748, "lng": -74.5053521 }
+    },
+    {
+        "name": "Rivière-des-Hurons, QC J0L 2B0, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 45.495148, "lng": -73.15466599999999 }
+    },
+    {
+        "name": "Rivière des Mille Îles, Quebec, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 45.6162841, "lng": -73.7136878 }
+    },
+    {
+        "name": "Rivière des Mille Îles, Quebec, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 45.6162841, "lng": -73.7136878 }
+    },
+    {
+        "name": "Ottawa River, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 46.6435663, "lng": -76.7502678 }
+    },
+    {
+        "name": "Rivière du Diable, Québec, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 46.2441371, "lng": -74.5547263 }
+    },
+    {
+        "name": "Rivière du Lièvre, Québec, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 45.6851966, "lng": -75.5226563 }
+    },
+    {
+        "name": "Rivière-du-Loup, QC, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 47.835957, "lng": -69.5359854 }
+    },
+    {
+        "name": "Rivière Sud-Est, Maskinongé, QC J0K 1N0, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 46.18757480000001, "lng": -73.0268904 }
+    },
+    {
+        "name":
+            "Réserve Faunique Mastigouche, 830 Rue Sainte Anne, Saint-Alexis-des-Monts, QC J0K 1V0, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 46.7118022, "lng": -73.4269151 }
+    },
+    {
+        "name": "Rivière-Matawin, QC G0X 2E0, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 46.905086, "lng": -72.929503 }
+    },
+    {
+        "name": "Ottawa River, Waltham, QC, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 45.9112654, "lng": -76.93577859999999 }
+    },
+    {
+        "name":
+            "Regional Park Forest Ouareau, 2007 Chemin du Massif, Notre-Dame-de-la-Merci, QC J0T 2A0, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 46.22467899999999, "lng": -74.046763 }
+    },
+    {
+        "name": "Rivière-Rouge, QC, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 46.4099419, "lng": -74.8702958 }
+    },
+    {
+        "name": "St Charles River, Quebec, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 46.8569375, "lng": -71.2853502 }
+    },
+    {
+        "name": "Saint-François River, Quebec, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 45.7846842, "lng": -72.4218645 }
+    },
+    {
+        "name": "Saint-François River, Quebec, Canada",
+        "state": 1,
+        "variation": 1,
+        "location": { "lat": 45.7846842, "lng": -72.4218645 }
+    },
+    {
+        "name": "Saint-François River, Quebec, Canada",
+        "state": 1,
+        "variation": 0,
+        "location": { "lat": 45.7846842, "lng": -72.4218645 }
+    },
+    {
+        "name": "St Lawrence River",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 47.6695302, "lng": -69.59569669999999 }
+    },
+    {
+        "name": "St Lawrence River",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 47.6695302, "lng": -69.59569669999999 }
+    },
+    {
+        "name": "Lake Champlain",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 44.586581, "lng": -73.3800905 }
+    },
+    {
+        "name": "Lake of Two Mountains, Quebec, Canada",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 45.4519656, "lng": -73.99524180000002 }
+    },
+    {
+        "name": "Lake of Two Mountains, Quebec, Canada",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 45.4519656, "lng": -73.99524180000002 }
+    },
+    {
+        "name": "Magog Lake, Quebec J0B, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 45.30090939999999, "lng": -72.0402845 }
+    },
+    {
+        "name": "Peribonka River, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 48.7385485, "lng": -71.9912827 }
+    },
+    {
+        "name": "84 Rue Saint Germain E, Rimouski, QC G5L 1A6, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 48.4525154, "lng": -68.5247846 }
+    },
+    {
+        "name": "Rivière Batiscan, Batiscan, QC G0X 1A0, Canada",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 46.5208108, "lng": -72.25092819999999 }
+    },
+    {
+        "name": "Beaurivage River, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 46.5996208, "lng": -71.3151582 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Chaudière River, Quebec, Canada",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 46.1593926, "lng": -70.9480008 }
+    },
+    {
+        "name": "Rivière des Mille Îles, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 45.6162841, "lng": -73.7136878 }
+    },
+    {
+        "name": "Ottawa River, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 46.6435663, "lng": -76.7502678 }
+    },
+    {
+        "name": "Rivière-des-Prairies, Montreal, QC H1C 1P4, Canada",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 45.657245, "lng": -73.56710799999999 }
+    },
+    {
+        "name": "Rivière-Trois-Pistoles, QC G0L 2E0, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 48.095592, "lng": -69.21208100000001 }
+    },
+    {
+        "name": "Rivière-du-Loup, QC, Canada",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 47.835957, "lng": -69.5359854 }
+    },
+    {
+        "name": "Rivière Etchemin, Lévis, QC G6W 7X5, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 46.7463274, "lng": -71.1986716 }
+    },
+    {
+        "name": "Rivière Famine, Québec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 46.1785462, "lng": -70.5969145 }
+    },
+    {
+        "name": "Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 52.9399159, "lng": -73.5491361 }
+    },
+    {
+        "name": "Madawaska River, New Brunswick, Canada",
+        "state": 0,
+        "variation": 0,
+        "location": { "lat": 47.43476649999999, "lng": -68.41168549999999 }
+    },
+    {
+        "name": "Rivière Matapédia, Matapédia, QC G0J 2E0, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 48.0010856, "lng": -66.9975637 }
+    },
+    {
+        "name": "Rivière-Ouelle, QC G0L 2C0, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 47.43289499999999, "lng": -70.017425 }
+    },
+    {
+        "name": "Richelieu River, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 45.5165744, "lng": -73.2304494 }
+    },
+    {
+        "name": "Richelieu River, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 45.5165744, "lng": -73.2304494 }
+    },
+    {
+        "name": "Richelieu River, Quebec, Canada",
+        "state": 0,
+        "variation": 1,
+        "location": { "lat": 45.5165744, "lng": -73.2304494 }
+    }
+]
